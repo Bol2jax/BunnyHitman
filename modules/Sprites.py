@@ -1,7 +1,7 @@
 '''
 Created on Mar 12, 2021
 
-@author: Borjax
+@author: borjax
 '''
 import math
 import pygame
